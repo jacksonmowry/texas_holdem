@@ -23,11 +23,11 @@ int main() {
   cout << "Line: " << line << endl;
 
   cout << " -------- " << "   "<< " -------- " << endl;
-  cout << "|" << card_num1 << "       |" << "   " << "|" << card_num2 << "      |" << endl;
+  cout << "|" << card_num1 << "       |" << "   " << "|" << card_num2 << "       |" << endl;
   cout << "|        |" << "   " << "|        |" << endl;
   cout << "|    " << heart << "   |" << "   " << "|   " << spade << "    |" << endl;
   cout << "|        |" << "   " << "|        |" << endl;
-  cout << "|       " << card_num1 << "|" << "   " << "|      " << card_num2 << "|" << endl;
+  cout << "|       " << card_num1 << "|" << "   " << "|       " << card_num2 << "|" << endl;
   cout << " -------- " << "   " << " -------- " << endl;
   return 0;
 }

@@ -2,19 +2,20 @@ OOP Classes
 
 - Deck Class 
   
-  - Shuffle function
-  - Display for the playing card
+  - Shuffle function    (Camden)
+  - Display for the playing card  (Paul)
+  - Deal       (Nick)
 
-- game class (one hand of texas holdem)
+- main.cpp (one hand of texas holdem)
   
-  - score_hand   
-  - num_player_wins
-  - num_dealer_wins
-  - player_cards
-  - dealer_cards
-  - player bets
-  - Starting amount of cash for the player (just int value)
-  - keep track of the pot
+  - score_hand       (Do this together) 
+  - num_player_wins                 (Paul)
+  - num_dealer_wins                 (Paul)
+  - player_cards                    (Nick)
+  - dealer_cards                    (Nick)
+  - player bets                                                  (Camden)
+  - Starting amount of cash for the player (just int value)      (Camden)
+  - keep track of the pot                                        (Camden)
   - How is the player going to bet and how much?
   
   What happens in the game class
