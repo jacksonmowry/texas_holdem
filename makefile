@@ -1,5 +1,5 @@
 CXX=		g++
-CXXFLAGS=	-g -Wall -std=gnu++23
+CXXFLAGS=	-g -Wall -std=gnu++11
 SHELL=		bash
 
 all:		main 
